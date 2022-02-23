@@ -13,7 +13,7 @@
   <p>I'm from Rio de Janeiro - RJ, Brazil</p>
   <p>Currently student of Web development Full-Stack at Trybe.</p>
   
-  [![MeuSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paulomisaki.com.br/)
+  [![MeuSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paulomisaki.vercel.app/)
   
   <hr />
   
