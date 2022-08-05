@@ -1,6 +1,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=400&height=54&lines=Hi!+I'm+Paulo!)
-<a href="https://www.linkedin.com/in/paulo-henrique-soares-bandeira-4a06b5187/" target="_blank">
+<a href="https://www.linkedin.com/in/paulo-henrique-fullstack-dev/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/>
   <br />
   
