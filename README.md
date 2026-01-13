@@ -9,9 +9,9 @@
   ### About me:
   
   <p>Hello there! My name is Paulo Henrique</p>
-  <p>and i'm 25 years old.</p>
+  <p>and i'm 29 years old.</p>
   <p>I'm from Rio de Janeiro - RJ, Brazil</p>
-  <p>Currently student of Web development Full-Stack at Trybe.</p>
+  <p>Currently acting as a Web Developer Full-Stack.</p>
   
   [![MeuSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paulomisaki.vercel.app/)
   
